@@ -24,6 +24,14 @@ select *
 from players
 ```
 
+# This is a task list
+This is an update of the actions already taken:
+
+- [x] Define the plan
+- [x] Communicate the plan with stakeholders
+- [ ] Execute the plan
+- [ ] Finish the project
+
 
 
 # This is Mainau Island in Germany
