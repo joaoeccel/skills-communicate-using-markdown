@@ -16,6 +16,15 @@ This is regular text.
 ###### This is a H6 header
 This is regular text.
 
+# This is a SQL query
+SQL query used to return all the fields in the table called pleayers
+
+```
+select *
+from players
+```
+
+
 
 # This is Mainau Island in Germany
 ![This is a picture taken in Mainau island, in Germany.](https://swissfamilyfun.com/wp-content/uploads/2015/06/mainau-mayoverview.jpg)
